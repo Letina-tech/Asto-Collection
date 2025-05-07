@@ -418,7 +418,7 @@ footer {
 }
 
 
-@media(max-width: 800px) {
+@media(max-width: 750px) {
     .hideOnMobile {
         display: none;
     }
@@ -428,7 +428,7 @@ footer {
     }
 }
 
-@media(max-width:400px) {
+@media(max-width:350px) {
     .sidebar {
         width: 100%;
 
