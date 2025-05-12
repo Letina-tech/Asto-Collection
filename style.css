@@ -112,9 +112,9 @@ button {
 }
 
 .para:hover {
-    color:rgb(98, 0, 255);
-    font-size: 50px;
-    font-weight: 60px;
+    color: rgb(98, 0, 255);
+    font-size: 150px;
+    font-weight: 150px;
 }
 
 .welecome {
